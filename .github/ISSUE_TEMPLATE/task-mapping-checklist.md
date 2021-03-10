@@ -18,7 +18,6 @@ assignees: ''
 - [ ] Add a pull request between your new branch and `master` with the name `{task name}` and a link to this issue in the message. 
 - [ ] Get the URL to the main file in your branch and put it in the [tasks](https://docs.google.com/spreadsheets/d/1r6JphHOM8K_dCrdX9ESx_05oYGtPVyVejxKBL1B3VL0/edit#gid=1644218186) sheet in the `task summary url` column.
 
-
 ## Second pass (a different person does this)
 - [ ] Add yourself as a secondary assignee to the issue. Also, on the [tasks](https://docs.google.com/spreadsheets/d/1r6JphHOM8K_dCrdX9ESx_05oYGtPVyVejxKBL1B3VL0/edit#gid=1644218186) sheet, change the `phase` column to `2` in that sheet and add your github username to the `phase 2 editor` column.
 - [ ] Read the paper and search through any associated documents or references to find a root source of the task. 
