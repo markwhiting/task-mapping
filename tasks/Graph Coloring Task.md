@@ -41,7 +41,9 @@ Subjects were familiarized with the coloring problem but were not given any inst
 No communication was allowed outside the confines of the system and physical partitions were used to prevent subjects from seeing outside workstation 
 
 
-The text at the bottom of each network screenshot reads as follows: 1 conflict in your immediate neighborhood. A thick line indicates a conflict that must be resolved. A thin line is shown when color choices do not conflict.” The bar at the bottom of each screen gave subjects an indication of global progress toward a solution.
+The text at the bottom of each network screenshot reads as follows: 1 conflict in your immediate neighborhood. A thick line indicates a conflict that must be resolved. A thin line is shown when color choices do not conflict.
+
+The bar at the bottom of each screen gave subjects an indication of global progress toward a solution.
 
 
 
