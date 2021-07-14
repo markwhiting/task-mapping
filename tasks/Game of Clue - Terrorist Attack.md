@@ -32,11 +32,11 @@ Reached out to researchers
 ## Performance calculation
 Exploration in information space at the collective level with two variables: the number of unique facts discovered by the group as a whole and the ratio of total facts found to unique facts found. The latter measure can be interpreted as the degree to which facts were found multiple times within the same group, or simply as the redundancy of facts found. The more unique facts and the lower the redundancy, the greater the exploration of information space.
 
-Exploration in information space Individual Level: Total number of facts found by (a) the subject’s own search (the search interface did not return facts that an individual already possessed, so the total number of facts represented the extent of exploration in information space by search) and (b) the redundancy of facts received from neighbors (the ratio of total facts received to unique facts received)
+Exploration in information space Individual Level: Total number of facts found by (a) the subject's own search (the search interface did not return facts that an individual already possessed, so the total number of facts represented the extent of exploration in information space by search) and (b) the redundancy of facts received from neighbors (the ratio of total facts received to unique facts received)
 
 Exploration and Exploitation in Solution Space: total number of unique theories that were registered during the experiment
 
 Performance was measured in pay per minute received by individuals. When measuring the performance of an entire network, we simply added up all the members’ pay per minute.
 
 ## Incentives
-Participants were rewarded 15¢ per minute per subproblem (3.75¢ per minute for each component of “when”) for which they had a correct answer registered, for a maximum of 60¢ for each minute (equivalent to $36 dollars per hour). 
+Participants were rewarded 15¢ per minute per subproblem (3.75¢ per minute for each component of 'when') for which they had a correct answer registered, for a maximum of 60¢ for each minute (equivalent to $36 dollars per hour). 
